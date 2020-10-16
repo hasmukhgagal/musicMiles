@@ -1,0 +1,103 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+.main-apple {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Arial";
+    line-height: 21px;
+    color: #fff;
+    background: #000;
+}
+.wrapper-main-apple {
+    max-width: 378px;
+    width: 100%;
+    margin: 0 auto;
+    background: #000 url(../../images/line-shape.png) no-repeat top left;
+    min-height: 100vh;
+    display: -webkit-flex;
+    display: flex;
+    align-items: flex-end;
+    padding: 45px 15px;
+    background-size: 140px auto;
+}
+.wrapper-inner-apple {
+    width: 100%;
+    text-align: center;
+}
+.image-box-apple {
+    width: 100%;
+    margin: 0 auto;
+}
+.image-box-apple img {
+    max-width: 100%;
+}
+.content-box-apple {
+    margin-top: 25px;
+}
+.content-box-apple h1 {
+    font-family: Arial;
+    font-size: 24px;
+    line-height: 128.9%;
+    color: #ffffff;
+    margin: 0 0 15px 0;
+}
+.content-box-apple p {
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 128.9%;
+    text-align: center;
+    color: #ffffff;
+    padding: 0;
+}
+.content-box-apple p + p {
+    margin-top: 20px;
+}
+.content-box-apple .btn {
+    margin-top: 30px;
+}
+.content-box-apple a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.btn-apple {
+    padding: 15px 30px;
+    width: 100%;
+    height: 50px;
+    background: #fc5839;
+    border-radius: 15px;
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.4s ease;
+}
+.btn-play {
+    margin-top: inherit;
+    background: blue;
+    padding: 15px 30px;
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.4s ease;
+}
+/* .btn-apple:hover,
+.btn-apple:focus {
+    background: #fff;
+    color: #fc5839;
+} */

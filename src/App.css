@@ -1,0 +1,60 @@
+.width-100-px {
+  width: 100px;
+}
+
+.font-size-100 {
+  font-size: 100px;
+}
+
+.font-size-25 {
+  font-size: 25px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%;
+}
+
+.border {
+  border: 1px solid #f8f8f8;
+}
+.pricing-table tbody tr.main-row td {
+  font-weight: 700;
+}
+.pt-10{
+  padding-top: 10px;
+  padding-right: 5px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.display-flex {
+  display: flex;   
+}
+
+.margin-top-10 {
+  margin-top: 10px;
+}
+
+.margin-bottom-5 {
+  margin-bottom: 5px;
+}
+
+
+.padding-left-0 {
+  padding-left: 0px;
+}
+
+.padding-right-0 {
+  padding-right: 0px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.hidden {
+  display: none !important;
+}

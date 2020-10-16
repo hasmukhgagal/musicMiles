@@ -1,0 +1,6 @@
+.user .content-wrapper {
+    background: url('/app-assets/images/bg.jpg') no-repeat;
+    background-size: 100%;
+    min-height: calc(100vh - 140px);
+    background-color: #FFF;
+}

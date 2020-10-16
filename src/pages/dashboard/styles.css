@@ -1,0 +1,49 @@
+
+.margin-top-7 {
+    margin-top: 7px;
+}
+
+.margin-left-15 {
+    margin-left: 15px;
+}
+
+.edit-mode-input {
+    margin-top: 22px;
+}
+
+.schedule-label {
+    font-size: 0.85rem;
+}
+
+.icn-edit {    
+    font-size: 16px;
+    /* font-weight: 800; */
+}
+
+.icn-save {    
+    font-size: 24px;
+    color: green;
+    font-weight: 800;
+}
+
+.icn-cancel {    
+    font-size: 24px;
+    color: red;
+    font-weight: 800;
+}
+
+.custom-checkbox {
+    width: 20px;
+    height: 20px;
+}
+
+.link-delete {
+    font-weight: 400;
+    color: #7367F0;
+    text-decoration: none;
+    margin-right: 3px;
+}
+
+.float-right {
+    float: right;
+}
